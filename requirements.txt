@@ -2,4 +2,7 @@ plotnine==0.8.0
 pystan==2.19.1.1
 Lifetimes==0.11.3
 implicit==0.4.4
-openpyxl
+openpyxl==3.0.7
+prophet==1.0.1
+convertdate==2.3.2
+plotly==4.14.3
