@@ -2,6 +2,8 @@ version: "3"
 services:
   datascience-notebook:
     build: .
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
     image: pyspark
     labels:
       description: Pyspark Envoronent
