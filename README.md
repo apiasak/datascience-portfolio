@@ -1,4 +1,4 @@
-# datascience-portfolio
+# Apipoj's portfolio
 
 Project
 * <a href="https://github.com/apiasak/datascience-portfolio/blob/main/code/Retail%20Dataset/A)%20Product%20Recommendation.ipynb">Product Recommendataion</a>
