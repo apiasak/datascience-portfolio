@@ -6,3 +6,4 @@ Project
 * <a href="https://github.com/apiasak/datascience-portfolio/blob/main/code/Retail%20Dataset/C)%20Price%20Elasticity.ipynb">Price Elasticity</a>
 * <a href="https://github.com/apiasak/datascience-portfolio/blob/main/code/Retail%20Dataset/D)%20Demand%20Forecasting.ipynb">Demand Forecasting</a>
 * <a href="https://github.com/apiasak/datascience-portfolio/blob/main/code/Pycaret/Customer%20Churn%20Prediction.ipynb">Customer Churn Prediction</a>
+* <a href="https://github.com/apiasak/datascience-portfolio/blob/main/code/Pycaret/Time_series_Sales_Forecast_using_PyCaret.ipynb">Sales forecast using PyCaret</a>
