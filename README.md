@@ -11,4 +11,5 @@
 
 ## LLM & Gen AI Project
 * <a href="https://github.com/apiasak/Chat-with-Any-Doc">Chat with Any Doc with OpenAI, LangChain</a>
+* <a href="https://github.com/apiasak/st_llms">Streamlit Chat with OpenAI - Basic API</a>
 * <a href="https://data-espresso.com/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1-traffic-%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a%e0%b9%84%e0%b8%8b%e0%b8%95%e0%b9%8c%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-gen-ai-%e0%b9%81%e0%b8%a5%e0%b8%b0-martech/">Automate content creation to increase traffic 2,900%</a>
