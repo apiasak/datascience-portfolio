@@ -1,0 +1,501 @@
+customer_id,age,gender,total_orders,days_since_last_order,total_spent_thb,avg_order_value_thb,preferred_product,channel
+C001,36,Female,9,77,7920.27,880.03,Flower Arrangements,LINE
+C002,30,Female,18,17,33249.82,1847.21,Mixed Bouquets,LINE
+C003,38,Male,9,38,8317.8,924.2,Roses,Walk-in
+C004,47,Other,34,24,44945.3,1321.92,Flower Arrangements,Walk-in
+C005,29,Female,1,4,2351.34,2351.34,Mixed Bouquets,Walk-in
+C006,29,Male,14,49,12451.87,889.42,Mixed Bouquets,LINE
+C007,47,Male,2,34,2879.32,1439.66,Gift Sets,LINE
+C008,39,Male,17,96,12455.91,732.7,Roses,Online
+C009,27,Male,12,69,13015.01,1084.58,Roses,Walk-in
+C010,37,Male,20,244,4986.87,249.34,Roses,Online
+C011,27,Male,16,1,27147.24,1696.7,Plants,Online
+C012,27,Male,6,12,2217.27,369.54,Flower Arrangements,Online
+C013,34,Male,13,332,13169.16,1013.01,Roses,Online
+C014,18,Female,10,16,4172.35,417.24,Flower Arrangements,LINE
+C015,18,Male,9,328,4831.91,536.88,Mixed Bouquets,Walk-in
+C016,26,Female,1,34,1913.83,1913.83,Plants,Walk-in
+C017,21,Male,13,239,7468.5,574.5,Mixed Bouquets,LINE
+C018,35,Other,12,116,5368.17,447.35,Mixed Bouquets,Walk-in
+C019,22,Male,19,72,12521.46,659.02,Gift Sets,Walk-in
+C020,18,Male,45,22,26147.72,581.06,Roses,Walk-in
+C021,46,Other,17,22,8534.14,502.01,Roses,Walk-in
+C022,29,Female,18,252,5103.54,283.53,Mixed Bouquets,Online
+C023,32,Female,17,10,10461.22,615.37,Gift Sets,LINE
+C024,18,Male,4,37,200.0,50.0,Mixed Bouquets,Online
+C025,26,Male,5,354,5360.74,1072.15,Roses,Online
+C026,33,Female,18,16,12320.5,684.47,Roses,Online
+C027,20,Female,43,29,25555.52,594.31,Mixed Bouquets,Online
+C028,35,Female,11,8,4894.6,444.96,Roses,LINE
+C029,25,Female,14,251,7316.31,522.59,Flower Arrangements,LINE
+C030,29,Male,20,14,39551.08,1977.55,Gift Sets,Walk-in
+C031,25,Female,3,1,1902.03,634.01,Mixed Bouquets,LINE
+C032,50,Male,13,34,5199.8,399.98,Mixed Bouquets,Online
+C033,31,Male,41,22,37593.06,916.9,Mixed Bouquets,LINE
+C034,21,Male,12,312,11560.96,963.41,Roses,Online
+C035,40,Female,1,48,1748.0,1748.0,Plants,LINE
+C036,19,Male,18,94,9292.39,516.24,Mixed Bouquets,LINE
+C037,34,Male,38,8,20862.95,549.02,Mixed Bouquets,Walk-in
+C038,18,Female,18,13,2765.93,153.66,Flower Arrangements,Online
+C039,18,Male,7,77,8741.34,1248.76,Mixed Bouquets,LINE
+C040,33,Female,9,89,10430.77,1158.97,Flower Arrangements,LINE
+C041,39,Male,11,72,6071.85,551.99,Roses,Walk-in
+C042,33,Female,21,1,26219.63,1248.55,Plants,LINE
+C043,30,Female,13,60,12596.07,968.93,Gift Sets,Online
+C044,28,Male,47,8,27392.33,582.82,Flower Arrangements,Walk-in
+C045,18,Male,24,15,45522.09,1896.75,Gift Sets,Online
+C046,24,Male,3,55,866.57,288.86,Roses,Walk-in
+C047,27,Male,10,126,7481.94,748.19,Mixed Bouquets,LINE
+C048,42,Other,16,70,13132.11,820.76,Flower Arrangements,Online
+C049,35,Male,12,114,14174.98,1181.25,Mixed Bouquets,LINE
+C050,18,Female,3,46,200.0,66.67,Mixed Bouquets,Walk-in
+C051,35,Male,4,11,4044.95,1011.24,Roses,Online
+C052,28,Female,7,75,4027.75,575.39,Roses,Walk-in
+C053,25,Female,3,7,2815.53,938.51,Mixed Bouquets,Walk-in
+C054,38,Female,18,312,8981.1,498.95,Roses,Walk-in
+C055,42,Female,2,49,1720.77,860.38,Flower Arrangements,Walk-in
+C056,41,Male,16,76,5724.5,357.78,Roses,Online
+C057,23,Male,3,263,4830.2,1610.07,Roses,Walk-in
+C058,28,Female,4,51,1378.15,344.54,Mixed Bouquets,Online
+C059,35,Female,21,3,16930.58,806.22,Mixed Bouquets,Online
+C060,41,Other,11,138,10799.1,981.74,Plants,LINE
+C061,27,Male,5,241,2650.28,530.06,Mixed Bouquets,LINE
+C062,30,Female,2,20,1134.52,567.26,Roses,Online
+C063,20,Female,21,28,14773.59,703.5,Plants,Online
+C064,20,Male,1,10,1948.01,1948.01,Mixed Bouquets,Walk-in
+C065,40,Male,3,42,946.67,315.56,Roses,LINE
+C066,45,Female,10,21,5907.43,590.74,Mixed Bouquets,Walk-in
+C067,31,Female,3,55,1040.7,346.9,Gift Sets,Walk-in
+C068,42,Female,18,305,12146.24,674.79,Mixed Bouquets,Walk-in
+C069,35,Male,4,16,3647.33,911.83,Roses,Online
+C070,25,Female,3,48,200.0,66.67,Roses,Walk-in
+C071,35,Male,6,76,12458.11,2076.35,Roses,LINE
+C072,47,Male,1,25,1461.72,1461.72,Mixed Bouquets,Walk-in
+C073,31,Male,17,22,12961.61,762.45,Mixed Bouquets,Online
+C074,47,Female,2,23,2384.78,1192.39,Roses,Walk-in
+C075,18,Female,1,17,2202.21,2202.21,Gift Sets,Walk-in
+C076,40,Female,47,24,43468.88,924.87,Plants,LINE
+C077,32,Male,17,319,4217.15,248.07,Mixed Bouquets,Walk-in
+C078,29,Female,5,14,2715.52,543.1,Plants,LINE
+C079,32,Male,12,82,8232.93,686.08,Roses,Online
+C080,18,Female,17,211,7732.76,454.87,Mixed Bouquets,Walk-in
+C081,29,Male,6,35,5934.13,989.02,Flower Arrangements,LINE
+C082,35,Male,3,11,1490.4,496.8,Plants,Walk-in
+C083,46,Female,8,45,3405.28,425.66,Plants,LINE
+C084,26,Male,7,49,6900.99,985.86,Roses,Walk-in
+C085,23,Female,10,13,14374.63,1437.46,Gift Sets,LINE
+C086,26,Female,4,29,11329.39,2832.35,Roses,Walk-in
+C087,41,Male,8,14,11392.17,1424.02,Plants,Online
+C088,35,Female,17,228,5740.57,337.68,Gift Sets,LINE
+C089,26,Male,48,10,26367.76,549.33,Roses,LINE
+C090,37,Female,37,1,24693.3,667.39,Flower Arrangements,LINE
+C091,32,Female,17,45,11254.02,662.0,Roses,LINE
+C092,41,Female,5,109,10733.08,2146.62,Mixed Bouquets,LINE
+C093,24,Male,8,44,15077.19,1884.65,Mixed Bouquets,Walk-in
+C094,28,Female,19,179,7627.79,401.46,Mixed Bouquets,Walk-in
+C095,28,Female,34,1,40992.32,1205.66,Gift Sets,Walk-in
+C096,18,Male,45,15,35778.23,795.07,Flower Arrangements,Online
+C097,34,Male,12,113,4764.54,397.04,Mixed Bouquets,Online
+C098,34,Female,1,43,1416.41,1416.41,Plants,Online
+C099,32,Female,1,39,238.11,238.11,Gift Sets,Walk-in
+C100,29,Female,12,280,2486.29,207.19,Roses,Online
+C101,18,Female,14,18,40191.94,2870.85,Gift Sets,Walk-in
+C102,27,Female,7,189,4750.1,678.59,Roses,Online
+C103,28,Male,2,48,1493.47,746.74,Plants,Online
+C104,23,Male,15,15,12057.37,803.82,Roses,LINE
+C105,30,Male,3,41,1894.34,631.45,Roses,LINE
+C106,36,Female,8,195,12647.94,1580.99,Mixed Bouquets,Online
+C107,50,Male,36,16,40810.16,1133.62,Flower Arrangements,Walk-in
+C108,33,Female,26,9,15391.05,591.96,Mixed Bouquets,Online
+C109,34,Female,3,30,3362.11,1120.7,Roses,Walk-in
+C110,31,Female,8,170,11889.04,1486.13,Mixed Bouquets,Online
+C111,18,Male,20,155,13932.18,696.61,Gift Sets,Online
+C112,31,Female,1,48,1639.27,1639.27,Mixed Bouquets,Walk-in
+C113,32,Male,17,227,12097.45,711.61,Roses,Walk-in
+C114,56,Female,12,41,7781.64,648.47,Mixed Bouquets,LINE
+C115,30,Male,11,63,11630.46,1057.31,Roses,LINE
+C116,35,Male,36,2,37035.13,1028.75,Plants,Online
+C117,31,Female,7,281,12848.09,1835.44,Plants,Walk-in
+C118,20,Male,36,17,35028.37,973.01,Mixed Bouquets,Walk-in
+C119,43,Male,6,34,1144.82,190.8,Mixed Bouquets,Online
+C120,39,Female,13,87,4928.47,379.11,Plants,LINE
+C121,39,Female,17,14,35986.99,2116.88,Mixed Bouquets,Walk-in
+C122,22,Female,7,252,12956.83,1850.98,Plants,LINE
+C123,46,Female,18,275,12348.39,686.02,Flower Arrangements,Walk-in
+C124,18,Female,6,80,4386.68,731.11,Plants,LINE
+C125,37,Male,12,242,6759.72,563.31,Mixed Bouquets,Online
+C126,53,Male,46,34,39522.46,859.18,Mixed Bouquets,LINE
+C127,22,Male,1,34,1230.3,1230.3,Gift Sets,Online
+C128,26,Female,17,313,3526.13,207.42,Mixed Bouquets,Online
+C129,32,Female,48,21,28114.43,585.72,Flower Arrangements,Walk-in
+C130,26,Male,1,67,3300.16,3300.16,Roses,Walk-in
+C131,18,Female,25,33,47627.63,1905.11,Flower Arrangements,LINE
+C132,32,Female,48,8,36389.05,758.11,Mixed Bouquets,LINE
+C133,21,Male,3,46,1089.28,363.09,Roses,LINE
+C134,36,Female,29,8,48877.03,1685.41,Roses,Online
+C135,22,Female,18,168,11275.32,626.41,Flower Arrangements,LINE
+C136,47,Female,12,142,14636.59,1219.72,Plants,Walk-in
+C137,24,Male,7,86,11464.45,1637.78,Mixed Bouquets,Online
+C138,28,Female,2,57,460.27,230.14,Roses,Online
+C139,40,Female,3,56,897.77,299.26,Flower Arrangements,Online
+C140,19,Female,34,17,45203.06,1329.5,Roses,Online
+C141,34,Female,13,166,13529.29,1040.71,Mixed Bouquets,Walk-in
+C142,45,Female,11,63,8847.89,804.35,Roses,Online
+C143,18,Female,18,1,20626.51,1145.92,Roses,LINE
+C144,33,Male,9,45,9362.48,1040.28,Roses,Online
+C145,34,Female,15,19,40424.42,2694.96,Mixed Bouquets,Walk-in
+C146,39,Female,9,272,6132.34,681.37,Roses,Walk-in
+C147,19,Male,14,73,8019.39,572.81,Mixed Bouquets,Walk-in
+C148,18,Female,6,30,8917.91,1486.32,Mixed Bouquets,Walk-in
+C149,37,Female,11,32,6481.56,589.23,Mixed Bouquets,Online
+C150,34,Female,15,43,2979.42,198.63,Mixed Bouquets,Online
+C151,34,Female,5,44,457.67,91.53,Plants,Online
+C152,35,Male,20,25,6214.84,310.74,Roses,Online
+C153,25,Other,47,12,44642.09,949.83,Mixed Bouquets,LINE
+C154,34,Female,8,60,4536.86,567.11,Roses,Walk-in
+C155,34,Male,6,264,3769.68,628.28,Roses,Online
+C156,24,Female,8,68,8191.43,1023.93,Mixed Bouquets,LINE
+C157,50,Female,4,98,3164.93,791.23,Mixed Bouquets,Walk-in
+C158,36,Female,20,253,11256.6,562.83,Plants,Walk-in
+C159,20,Female,10,241,13552.64,1355.26,Mixed Bouquets,LINE
+C160,38,Male,7,50,13159.75,1879.96,Gift Sets,Online
+C161,22,Male,27,17,32091.48,1188.57,Roses,Online
+C162,39,Male,37,26,20000.75,540.56,Roses,Walk-in
+C163,43,Female,5,18,800.08,160.02,Roses,Online
+C164,23,Male,2,22,913.54,456.77,Roses,Online
+C165,41,Male,9,18,6433.81,714.87,Mixed Bouquets,Walk-in
+C166,36,Male,1,26,506.53,506.53,Flower Arrangements,Online
+C167,40,Female,9,89,10496.83,1166.31,Roses,Walk-in
+C168,50,Female,2,17,3272.04,1636.02,Gift Sets,Online
+C169,29,Male,2,34,398.37,199.18,Plants,Walk-in
+C170,24,Male,15,50,13014.73,867.65,Roses,Walk-in
+C171,23,Female,6,97,10569.58,1761.6,Roses,Walk-in
+C172,23,Female,16,293,13379.72,836.23,Roses,Walk-in
+C173,31,Male,16,92,13266.22,829.14,Roses,LINE
+C174,35,Female,15,66,4006.45,267.1,Roses,Walk-in
+C175,34,Male,3,52,2065.24,688.41,Mixed Bouquets,Online
+C176,40,Male,10,90,3487.97,348.8,Roses,Walk-in
+C177,32,Female,14,40,12137.81,866.99,Mixed Bouquets,Online
+C178,46,Male,12,185,3305.14,275.43,Gift Sets,LINE
+C179,29,Female,3,47,729.68,243.23,Flower Arrangements,Walk-in
+C180,59,Male,11,103,9112.49,828.41,Gift Sets,LINE
+C181,38,Female,16,19,42010.68,2625.67,Roses,Walk-in
+C182,23,Female,29,26,19386.55,668.5,Mixed Bouquets,LINE
+C183,21,Male,4,18,374.75,93.69,Mixed Bouquets,Online
+C184,36,Female,20,266,14169.2,708.46,Roses,LINE
+C185,29,Male,16,78,9872.39,617.02,Roses,Online
+C186,39,Other,10,4,14141.48,1414.15,Flower Arrangements,Online
+C187,36,Male,5,45,8577.65,1715.53,Flower Arrangements,Walk-in
+C188,31,Male,1,47,920.82,920.82,Mixed Bouquets,Walk-in
+C189,23,Male,1,60,1470.56,1470.56,Mixed Bouquets,LINE
+C190,18,Other,3,1,2807.13,935.71,Mixed Bouquets,Online
+C191,27,Female,11,19,9447.99,858.91,Roses,Online
+C192,40,Female,36,23,43728.49,1214.68,Roses,LINE
+C193,34,Male,6,87,12561.55,2093.59,Roses,Online
+C194,19,Female,19,332,9139.43,481.02,Roses,LINE
+C195,33,Male,1,12,1188.24,1188.24,Gift Sets,LINE
+C196,35,Female,4,9,10205.47,2551.37,Mixed Bouquets,Online
+C197,23,Male,15,347,13846.52,923.1,Flower Arrangements,LINE
+C198,33,Male,16,43,9111.27,569.45,Roses,Walk-in
+C199,32,Male,17,9,4262.34,250.73,Mixed Bouquets,Walk-in
+C200,20,Female,2,38,2500.92,1250.46,Roses,Online
+C201,35,Female,4,42,1009.45,252.36,Roses,Walk-in
+C202,37,Male,20,337,12929.21,646.46,Roses,LINE
+C203,42,Female,15,21,12010.1,800.67,Plants,LINE
+C204,42,Female,1,21,2514.06,2514.06,Flower Arrangements,Online
+C205,18,Female,15,107,11792.14,786.14,Mixed Bouquets,Online
+C206,22,Male,4,346,15208.64,3802.16,Mixed Bouquets,LINE
+C207,37,Male,14,65,4838.57,345.61,Gift Sets,Online
+C208,37,Female,42,7,34276.31,816.1,Roses,Online
+C209,37,Male,3,68,10539.6,3513.2,Roses,Online
+C210,65,Male,4,36,4524.8,1131.2,Roses,LINE
+C211,37,Female,1,34,926.4,926.4,Plants,Online
+C212,43,Female,1,10,2707.19,2707.19,Gift Sets,LINE
+C213,41,Male,4,15,10742.24,2685.56,Roses,LINE
+C214,38,Male,3,61,2209.19,736.4,Plants,Online
+C215,28,Female,21,87,7060.97,336.24,Plants,Online
+C216,39,Male,4,226,13413.47,3353.37,Roses,LINE
+C217,24,Male,1,17,349.51,349.51,Mixed Bouquets,Online
+C218,29,Male,15,78,10735.46,715.7,Mixed Bouquets,LINE
+C219,27,Female,3,53,3313.68,1104.56,Gift Sets,LINE
+C220,32,Female,5,172,11457.07,2291.41,Roses,Online
+C221,55,Male,6,29,2183.83,363.97,Plants,LINE
+C222,18,Male,14,234,12785.16,913.23,Roses,LINE
+C223,38,Male,5,30,200.0,40.0,Flower Arrangements,LINE
+C224,18,Female,2,20,322.95,161.48,Mixed Bouquets,Online
+C225,27,Male,8,41,2445.88,305.74,Mixed Bouquets,Walk-in
+C226,42,Male,5,34,521.84,104.37,Plants,Online
+C227,32,Female,8,205,14977.46,1872.18,Plants,Online
+C228,21,Male,1,13,924.9,924.9,Plants,Online
+C229,24,Female,5,15,13403.76,2680.75,Roses,LINE
+C230,38,Male,30,24,15373.45,512.45,Flower Arrangements,Online
+C231,24,Male,11,64,11014.73,1001.34,Roses,Online
+C232,34,Male,16,121,12560.79,785.05,Mixed Bouquets,Walk-in
+C233,32,Female,2,9,3401.98,1700.99,Mixed Bouquets,LINE
+C234,25,Female,47,5,39190.36,833.84,Mixed Bouquets,Online
+C235,53,Female,2,55,1243.0,621.5,Mixed Bouquets,Walk-in
+C236,38,Male,13,139,8243.51,634.12,Gift Sets,Walk-in
+C237,18,Female,5,57,2725.54,545.11,Roses,LINE
+C238,33,Male,6,21,14897.08,2482.85,Flower Arrangements,Online
+C239,25,Male,1,54,2196.33,2196.33,Mixed Bouquets,Walk-in
+C240,40,Female,1,49,2020.42,2020.42,Roses,LINE
+C241,24,Male,14,185,6211.15,443.65,Roses,LINE
+C242,30,Male,14,69,13049.48,932.11,Gift Sets,LINE
+C243,37,Male,3,10,2626.43,875.48,Plants,Online
+C244,40,Male,1,1,2567.17,2567.17,Gift Sets,Online
+C245,19,Male,21,24,36872.27,1755.82,Gift Sets,LINE
+C246,28,Female,12,18,14055.35,1171.28,Roses,Online
+C247,27,Male,20,203,11810.35,590.52,Mixed Bouquets,LINE
+C248,25,Female,18,248,4051.72,225.1,Flower Arrangements,Walk-in
+C249,49,Female,18,10,3476.19,193.12,Mixed Bouquets,Online
+C250,36,Male,14,65,6378.55,455.61,Mixed Bouquets,Walk-in
+C251,19,Male,15,310,6891.32,459.42,Mixed Bouquets,Walk-in
+C252,41,Male,16,53,2245.55,140.35,Mixed Bouquets,Walk-in
+C253,53,Female,2,35,2922.81,1461.4,Mixed Bouquets,Walk-in
+C254,42,Male,34,14,48733.69,1433.34,Roses,LINE
+C255,18,Female,3,50,1574.86,524.95,Mixed Bouquets,Walk-in
+C256,27,Male,46,15,35355.44,768.6,Mixed Bouquets,Online
+C257,44,Female,16,136,10634.01,664.63,Mixed Bouquets,LINE
+C258,24,Male,11,74,5681.61,516.51,Roses,Online
+C259,36,Male,17,9,19676.66,1157.45,Flower Arrangements,Walk-in
+C260,39,Female,25,31,15553.19,622.13,Roses,LINE
+C261,22,Female,7,300,15143.23,2163.32,Mixed Bouquets,Online
+C262,31,Male,12,61,11096.23,924.69,Plants,LINE
+C263,18,Female,5,3,2786.61,557.32,Mixed Bouquets,LINE
+C264,21,Female,18,133,4482.1,249.01,Roses,LINE
+C265,29,Female,33,26,21410.05,648.79,Flower Arrangements,Online
+C266,19,Female,35,1,48727.66,1392.22,Mixed Bouquets,Online
+C267,48,Male,8,24,12687.38,1585.92,Plants,Online
+C268,18,Male,8,18,10541.18,1317.65,Flower Arrangements,Walk-in
+C269,27,Male,43,37,22838.94,531.14,Flower Arrangements,LINE
+C270,33,Female,17,55,14134.91,831.47,Mixed Bouquets,Walk-in
+C271,46,Female,15,283,5134.75,342.32,Roses,Online
+C272,18,Male,15,63,15436.74,1029.12,Roses,LINE
+C273,43,Male,10,168,7719.75,771.98,Mixed Bouquets,Online
+C274,32,Female,12,244,2865.81,238.82,Mixed Bouquets,Online
+C275,22,Other,17,349,10996.91,646.88,Mixed Bouquets,Online
+C276,36,Female,14,229,5628.29,402.02,Roses,LINE
+C277,33,Male,15,30,26176.91,1745.13,Roses,Online
+C278,25,Male,49,10,31328.66,639.36,Mixed Bouquets,LINE
+C279,32,Male,3,51,961.67,320.56,Roses,Walk-in
+C280,28,Female,6,14,9616.27,1602.71,Flower Arrangements,LINE
+C281,33,Male,2,55,200.0,100.0,Roses,LINE
+C282,38,Female,10,132,12873.46,1287.35,Mixed Bouquets,Walk-in
+C283,47,Male,3,56,12334.08,4111.36,Gift Sets,Online
+C284,19,Female,24,24,17995.14,749.8,Roses,Walk-in
+C285,53,Female,15,111,4407.8,293.85,Mixed Bouquets,LINE
+C286,18,Female,3,51,1360.77,453.59,Roses,Online
+C287,30,Male,15,43,8743.18,582.88,Flower Arrangements,Online
+C288,37,Male,3,49,2939.13,979.71,Mixed Bouquets,Walk-in
+C289,34,Male,18,223,6205.57,344.75,Mixed Bouquets,Walk-in
+C290,25,Female,3,55,8077.48,2692.49,Mixed Bouquets,Walk-in
+C291,29,Female,14,74,13553.0,968.07,Plants,Online
+C292,27,Female,11,202,10797.16,981.56,Roses,Online
+C293,26,Female,3,179,14509.14,4836.38,Roses,LINE
+C294,40,Female,15,89,13102.64,873.51,Plants,Online
+C295,35,Male,20,31,6263.48,313.17,Mixed Bouquets,Online
+C296,25,Female,11,271,10208.36,928.03,Plants,LINE
+C297,40,Male,30,12,18140.15,604.67,Mixed Bouquets,LINE
+C298,35,Male,17,41,8645.31,508.55,Plants,LINE
+C299,40,Female,4,244,9646.11,2411.53,Mixed Bouquets,Online
+C300,38,Male,12,166,14271.07,1189.26,Flower Arrangements,Walk-in
+C301,23,Male,6,66,978.15,163.02,Gift Sets,Walk-in
+C302,26,Female,13,347,11412.91,877.92,Mixed Bouquets,LINE
+C303,39,Male,1,1,898.27,898.27,Roses,Walk-in
+C304,38,Female,16,354,9060.81,566.3,Roses,Online
+C305,31,Male,21,25,21006.38,1000.3,Roses,Online
+C306,33,Male,9,182,10520.02,1168.89,Roses,Online
+C307,44,Male,10,16,9064.49,906.45,Roses,Online
+C308,26,Male,17,24,50021.73,2942.45,Mixed Bouquets,Walk-in
+C309,37,Female,8,50,8382.24,1047.78,Mixed Bouquets,Online
+C310,29,Male,4,46,1286.43,321.61,Mixed Bouquets,Online
+C311,29,Female,19,79,2532.14,133.27,Flower Arrangements,LINE
+C312,42,Female,8,65,9398.7,1174.84,Roses,LINE
+C313,40,Female,18,190,8497.85,472.1,Roses,LINE
+C314,40,Female,5,62,5917.06,1183.41,Roses,LINE
+C315,45,Female,7,40,8351.57,1193.08,Mixed Bouquets,Online
+C316,32,Male,1,39,2174.04,2174.04,Roses,Walk-in
+C317,38,Male,6,37,1800.5,300.08,Roses,Online
+C318,28,Male,18,118,6488.66,360.48,Mixed Bouquets,Online
+C319,35,Female,12,65,3665.61,305.47,Plants,Online
+C320,30,Male,15,51,8124.62,541.64,Roses,Online
+C321,32,Female,5,60,5113.62,1022.72,Flower Arrangements,Online
+C322,37,Female,5,7,200.0,40.0,Flower Arrangements,Online
+C323,23,Male,6,74,14663.95,2443.99,Plants,Online
+C324,52,Female,31,29,33460.54,1079.37,Gift Sets,Walk-in
+C325,21,Male,8,222,10065.89,1258.24,Roses,LINE
+C326,19,Male,18,15,27675.95,1537.55,Roses,Walk-in
+C327,43,Female,3,56,2563.32,854.44,Plants,Walk-in
+C328,39,Female,2,32,1454.38,727.19,Mixed Bouquets,Online
+C329,38,Female,1,44,2408.7,2408.7,Mixed Bouquets,Online
+C330,38,Male,10,154,14135.67,1413.57,Flower Arrangements,Online
+C331,31,Male,4,24,1093.09,273.27,Flower Arrangements,Walk-in
+C332,23,Female,1,42,856.61,856.61,Gift Sets,Online
+C333,32,Female,3,59,527.98,175.99,Gift Sets,Online
+C334,25,Female,3,5,997.08,332.36,Flower Arrangements,LINE
+C335,41,Male,2,33,2801.04,1400.52,Roses,LINE
+C336,30,Female,48,16,30381.68,632.95,Plants,Online
+C337,23,Male,5,280,14651.9,2930.38,Roses,Online
+C338,28,Male,15,152,14838.64,989.24,Roses,LINE
+C339,36,Female,8,195,14414.34,1801.79,Plants,Walk-in
+C340,26,Male,9,158,14047.23,1560.8,Roses,Online
+C341,23,Other,2,56,2070.97,1035.48,Roses,Online
+C342,34,Male,16,66,12430.85,776.93,Roses,LINE
+C343,34,Male,6,137,13180.04,2196.67,Plants,Walk-in
+C344,26,Female,17,143,5612.55,330.15,Mixed Bouquets,Online
+C345,27,Female,35,17,38520.81,1100.59,Flower Arrangements,LINE
+C346,34,Female,3,51,3117.1,1039.03,Roses,Online
+C347,18,Female,5,60,903.57,180.71,Plants,Walk-in
+C348,18,Female,3,31,2651.27,883.76,Plants,LINE
+C349,24,Female,15,205,13501.8,900.12,Roses,Online
+C350,29,Female,9,352,11244.1,1249.34,Mixed Bouquets,Online
+C351,35,Male,7,193,6721.53,960.22,Roses,Walk-in
+C352,46,Female,12,32,5312.59,442.72,Gift Sets,Online
+C353,40,Male,10,18,3776.13,377.61,Flower Arrangements,Online
+C354,30,Other,5,42,14441.03,2888.21,Gift Sets,Walk-in
+C355,31,Female,18,82,10642.57,591.25,Roses,Walk-in
+C356,21,Male,50,6,27483.0,549.66,Plants,LINE
+C357,31,Female,2,4,200.0,100.0,Plants,Walk-in
+C358,29,Female,25,9,18455.74,738.23,Flower Arrangements,Walk-in
+C359,35,Male,5,275,5652.14,1130.43,Gift Sets,Online
+C360,23,Female,17,12,15518.62,912.86,Mixed Bouquets,LINE
+C361,37,Female,1,13,718.09,718.09,Roses,Walk-in
+C362,47,Male,14,67,12970.32,926.45,Flower Arrangements,Online
+C363,30,Female,23,1,35267.21,1533.36,Flower Arrangements,Walk-in
+C364,36,Male,11,15,10373.92,943.08,Mixed Bouquets,Walk-in
+C365,38,Female,5,50,1678.37,335.67,Roses,Walk-in
+C366,27,Other,31,19,46577.25,1502.49,Mixed Bouquets,LINE
+C367,34,Female,16,168,9056.26,566.02,Roses,Walk-in
+C368,32,Female,2,48,1953.59,976.8,Mixed Bouquets,Walk-in
+C369,32,Female,3,32,1093.05,364.35,Flower Arrangements,Online
+C370,24,Female,2,8,2228.97,1114.48,Flower Arrangements,LINE
+C371,32,Male,3,90,4042.66,1347.55,Roses,Walk-in
+C372,36,Female,10,99,14460.33,1446.03,Mixed Bouquets,Online
+C373,46,Male,1,28,2028.73,2028.73,Roses,Walk-in
+C374,41,Female,4,117,11700.03,2925.01,Roses,Online
+C375,53,Male,14,85,11761.2,840.09,Plants,Online
+C376,24,Male,4,30,2048.62,512.16,Gift Sets,Online
+C377,40,Male,2,46,1792.16,896.08,Mixed Bouquets,Online
+C378,33,Female,44,28,43227.45,982.44,Plants,Online
+C379,53,Male,5,19,200.0,40.0,Plants,Walk-in
+C380,23,Female,14,198,4991.59,356.54,Plants,Online
+C381,23,Male,3,12,782.64,260.88,Roses,Walk-in
+C382,26,Male,7,116,10211.95,1458.85,Gift Sets,LINE
+C383,18,Female,17,50,3432.44,201.91,Mixed Bouquets,LINE
+C384,26,Female,24,10,43248.8,1802.03,Roses,LINE
+C385,24,Male,14,214,13922.41,994.46,Roses,LINE
+C386,33,Female,1,1,200.0,200.0,Mixed Bouquets,Online
+C387,35,Female,9,26,11273.68,1252.63,Roses,LINE
+C388,50,Female,20,358,8240.24,412.01,Roses,Walk-in
+C389,41,Male,11,78,7722.29,702.03,Roses,Online
+C390,26,Male,5,276,10087.21,2017.44,Plants,Online
+C391,23,Female,44,8,15070.02,342.5,Plants,Online
+C392,36,Male,8,216,12369.9,1546.24,Roses,LINE
+C393,18,Female,6,46,4250.67,708.44,Plants,Walk-in
+C394,50,Female,4,327,6173.52,1543.38,Plants,Online
+C395,43,Female,9,72,4583.98,509.33,Plants,LINE
+C396,27,Female,15,31,10990.96,732.73,Roses,Walk-in
+C397,18,Other,1,30,894.0,894.0,Flower Arrangements,Online
+C398,45,Male,6,24,2640.99,440.16,Gift Sets,LINE
+C399,30,Female,17,150,13911.27,818.31,Flower Arrangements,Online
+C400,44,Male,1,45,1397.68,1397.68,Roses,Online
+C401,18,Female,4,25,11407.36,2851.84,Mixed Bouquets,Walk-in
+C402,26,Female,8,30,9138.71,1142.34,Flower Arrangements,Online
+C403,32,Female,1,22,1740.97,1740.97,Mixed Bouquets,LINE
+C404,32,Other,1,31,2253.12,2253.12,Roses,Online
+C405,27,Female,11,32,8501.75,772.89,Roses,Online
+C406,38,Male,3,43,1987.97,662.66,Plants,Walk-in
+C407,21,Male,8,25,12002.5,1500.31,Plants,Walk-in
+C408,30,Female,4,51,3174.64,793.66,Roses,LINE
+C409,33,Male,6,133,12260.96,2043.49,Gift Sets,Online
+C410,37,Male,37,13,20000.91,540.57,Roses,Online
+C411,39,Male,12,360,6355.06,529.59,Flower Arrangements,Walk-in
+C412,20,Male,13,332,10155.79,781.21,Plants,Online
+C413,18,Male,15,292,8143.55,542.9,Plants,LINE
+C414,44,Male,1,40,609.56,609.56,Gift Sets,Online
+C415,35,Male,17,39,11046.65,649.8,Roses,Walk-in
+C416,24,Male,9,41,13608.94,1512.1,Plants,Online
+C417,47,Other,4,59,1008.67,252.17,Roses,LINE
+C418,33,Male,21,1,48434.02,2306.38,Flower Arrangements,Online
+C419,43,Male,41,22,19517.01,476.02,Flower Arrangements,LINE
+C420,32,Female,5,193,6367.13,1273.43,Flower Arrangements,Online
+C421,52,Male,13,248,6815.81,524.29,Roses,LINE
+C422,49,Female,6,227,8144.83,1357.47,Plants,Online
+C423,29,Female,1,49,3412.82,3412.82,Roses,Walk-in
+C424,41,Male,2,34,1105.21,552.6,Roses,Online
+C425,38,Male,12,307,9717.72,809.81,Flower Arrangements,Walk-in
+C426,45,Female,18,309,11572.58,642.92,Mixed Bouquets,LINE
+C427,22,Female,12,53,5329.76,444.15,Plants,LINE
+C428,38,Female,37,10,37754.65,1020.4,Mixed Bouquets,Online
+C429,42,Female,6,109,12738.76,2123.13,Roses,Online
+C430,18,Male,1,10,3034.53,3034.53,Plants,Walk-in
+C431,20,Other,1,2,1077.54,1077.54,Mixed Bouquets,LINE
+C432,18,Male,9,23,14370.8,1596.76,Roses,Online
+C433,29,Female,5,183,7997.85,1599.57,Flower Arrangements,Walk-in
+C434,39,Female,10,31,13744.2,1374.42,Mixed Bouquets,Online
+C435,47,Female,49,8,18504.12,377.64,Flower Arrangements,Walk-in
+C436,32,Female,30,10,28087.03,936.23,Mixed Bouquets,Online
+C437,48,Male,15,75,12978.39,865.23,Plants,Online
+C438,18,Male,6,309,12537.68,2089.61,Plants,Walk-in
+C439,18,Male,2,2,604.81,302.4,Flower Arrangements,LINE
+C440,31,Male,21,9,31668.22,1508.01,Roses,Walk-in
+C441,35,Female,36,1,42219.67,1172.77,Plants,Walk-in
+C442,31,Male,10,49,3052.34,305.23,Flower Arrangements,Walk-in
+C443,18,Male,1,23,2818.69,2818.69,Flower Arrangements,LINE
+C444,31,Other,3,15,2113.64,704.55,Mixed Bouquets,Online
+C445,18,Female,2,47,650.36,325.18,Plants,Online
+C446,38,Female,5,32,2893.82,578.76,Flower Arrangements,Walk-in
+C447,35,Other,15,5,18036.52,1202.43,Roses,Walk-in
+C448,22,Male,17,321,10581.54,622.44,Mixed Bouquets,Online
+C449,26,Male,24,27,25074.86,1044.79,Plants,LINE
+C450,21,Female,8,73,2381.91,297.74,Roses,LINE
+C451,31,Female,1,37,450.11,450.11,Gift Sets,Walk-in
+C452,41,Male,10,226,3079.51,307.95,Flower Arrangements,Online
+C453,22,Female,7,17,13731.35,1961.62,Flower Arrangements,LINE
+C454,37,Male,7,111,11388.74,1626.96,Roses,Online
+C455,26,Male,11,319,3484.13,316.74,Roses,LINE
+C456,24,Female,1,43,2471.84,2471.84,Gift Sets,Walk-in
+C457,30,Female,5,35,1482.79,296.56,Roses,LINE
+C458,21,Female,5,201,4623.81,924.76,Plants,LINE
+C459,26,Male,14,37,9623.29,687.38,Mixed Bouquets,LINE
+C460,20,Female,12,273,8098.29,674.86,Roses,Online
+C461,51,Male,14,257,4772.01,340.86,Roses,Online
+C462,32,Male,12,38,11461.4,955.12,Mixed Bouquets,LINE
+C463,25,Female,12,95,7780.13,648.34,Gift Sets,Walk-in
+C464,34,Other,28,20,35454.16,1266.22,Mixed Bouquets,Online
+C465,30,Female,7,228,13154.91,1879.27,Mixed Bouquets,LINE
+C466,29,Female,6,78,9364.01,1560.67,Roses,LINE
+C467,38,Female,4,35,1438.75,359.69,Mixed Bouquets,LINE
+C468,39,Female,14,140,7939.38,567.1,Mixed Bouquets,Walk-in
+C469,26,Male,3,38,1249.97,416.66,Plants,LINE
+C470,26,Male,15,243,6310.68,420.71,Mixed Bouquets,LINE
+C471,29,Male,41,22,41678.42,1016.55,Mixed Bouquets,Walk-in
+C472,18,Male,11,314,10396.37,945.12,Roses,Online
+C473,18,Female,12,20,5869.85,489.15,Gift Sets,Walk-in
+C474,45,Female,5,37,2564.35,512.87,Roses,Online
+C475,48,Male,14,230,10108.04,722.0,Roses,LINE
+C476,29,Male,11,27,6424.3,584.03,Flower Arrangements,Online
+C477,37,Female,15,81,4459.86,297.32,Mixed Bouquets,LINE
+C478,35,Male,3,20,1518.65,506.22,Mixed Bouquets,LINE
+C479,62,Female,1,27,1134.12,1134.12,Mixed Bouquets,Online
+C480,43,Female,3,4,2155.56,718.52,Plants,LINE
+C481,30,Female,20,29,10565.8,528.29,Roses,Online
+C482,22,Female,4,63,14248.67,3562.17,Plants,LINE
+C483,18,Female,9,312,12977.12,1441.9,Flower Arrangements,Walk-in
+C484,34,Male,13,61,3406.45,262.03,Mixed Bouquets,LINE
+C485,24,Female,17,327,10854.51,638.5,Mixed Bouquets,Walk-in
+C486,18,Female,4,87,9010.39,2252.6,Roses,Online
+C487,25,Male,27,21,20289.87,751.48,Plants,LINE
+C488,21,Female,7,49,10495.12,1499.3,Mixed Bouquets,Online
+C489,48,Female,31,31,48546.17,1566.01,Roses,Online
+C490,40,Female,18,84,9815.7,545.32,Mixed Bouquets,Online
+C491,31,Female,19,77,9501.41,500.07,Gift Sets,LINE
+C492,46,Female,15,49,8184.06,545.6,Mixed Bouquets,Walk-in
+C493,32,Female,42,1,20382.39,485.29,Gift Sets,Walk-in
+C494,23,Female,1,16,246.02,246.02,Roses,Walk-in
+C495,47,Female,2,46,2980.38,1490.19,Roses,Online
+C496,37,Female,2,14,2540.21,1270.1,Roses,Walk-in
+C497,21,Female,23,21,38241.52,1662.67,Mixed Bouquets,Online
+C498,30,Female,15,21,11281.72,752.11,Roses,Online
+C499,23,Male,18,134,7479.01,415.5,Roses,Walk-in
+C500,18,Female,5,28,2346.19,469.24,Gift Sets,Online
